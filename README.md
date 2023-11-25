@@ -76,8 +76,8 @@ When a participant wishes to retrieve exchanged data, the unique hash associated
 
 ## Contributors
 
-- R.B.Shyamala (2021503558)
 - Shivani Suresh (2021503050)
+- R.B.Shyamala (2021503558)
 - Swathy K S (2021503052)
 
 
